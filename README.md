@@ -1,0 +1,2 @@
+# amoc
+school database management
